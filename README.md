@@ -34,8 +34,8 @@ Customer churn directly impacts recurring revenue. The goal is to accurately ide
 
 ```text
 ├── data/
-├── notebooks/
-├── visuals/
+├── notebook/
+├── Project Report
 ├── README.md
 ├── requirements.txt
 └── LICENSE
