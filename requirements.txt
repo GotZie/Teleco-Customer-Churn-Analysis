@@ -1,0 +1,25 @@
+# Core data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+
+# Machine learning
+scikit-learn
+
+# Gradient boosting
+xgboost
+lightgbm
+
+# Notebook environment
+jupyter
+
+joblib
+ipykernel
+openpyxl
+adjustText
